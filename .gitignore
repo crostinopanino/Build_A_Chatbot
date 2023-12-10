@@ -1,0 +1,7 @@
+__pycache__/
+env/
+venv/
+*.pyc
+.DS_Store  # If you are on a Mac
+OPENWEATHER_API_KEY.txt
+*.db
